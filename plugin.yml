@@ -1,0 +1,8 @@
+name: Nope.
+main: me.michaelkrauty.Nope.Nope
+author: michaelkrauty
+version: 1.0
+commands:
+   nope:
+     description: Nope.
+     usage: /<command>
